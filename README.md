@@ -3,12 +3,13 @@
 Hi! My name is Alfin, I'm a frontend developer at Lawkins. Interested in React, Angular, GraphQL and tooling. Loves to teach code, coffee addict, and have a strong sense of design. **I'm a moslem ;)**
 
 - 👨‍💻  Frontend developer @lawkins
-- 💅 Active writing articles on @BaliJS forum
-- 💬 Free for #ASK, PM me in #Telegram @natserract. 
+- 💅 Active writing articles on [@BaliJS](https://github.com/BaliJS) forum
+- 💬 Free for #ASK, PM me in #Telegram [@natserract](https://t.me/natserract). 
 
 ### Contact Me
 
 ```sh
-Algorithms: loki 97 / key: __SECRET_KEY__ / modes: CBC
+Algorithms: loki 97 | key: '__SECRET_KEY__' | modes: CBC
+
 My secret key: jcb36aDHHmNAvRs5Qz1Dy2MDhBB+KNGobfM5OwvJVYCBqdkmqZF98DWxkxCwSu0X9NrEfiEIwp8pDpVw3TTa6A==
 ```

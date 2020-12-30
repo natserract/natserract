@@ -9,6 +9,6 @@ Hi! My name is Alfin, I'm a frontend developer at Lawkins. Interested in React, 
 ### Contact Me
 
 ```sh
-My secret key: jcb36aDHHmNAvRs5Qz1Dy2MDhBB+KNGobfM5OwvJVYCBqdkmqZF98DWxkxCwSu0X9NrEfiEIwp8pDpVw3TTa6A==
 Algorithms: loki 97 / key: __SECRET_KEY__ / modes: CBC
+My secret key: jcb36aDHHmNAvRs5Qz1Dy2MDhBB+KNGobfM5OwvJVYCBqdkmqZF98DWxkxCwSu0X9NrEfiEIwp8pDpVw3TTa6A==
 ```

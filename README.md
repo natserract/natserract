@@ -1,6 +1,6 @@
 
-### Hi there! 👋
-Hi! My name is Alfin, I'm a frontend developer at Lawkins Singapore. Interested in React, Angular, GraphQL and tooling. Loves to teach code, coffee addict, and have a strong sense of design. **I'm a moslem ;)**
+### Hi there! 
+Hi! My name is Alfin, I'm a frontend developer at Lawkins. Interested in React, Angular, GraphQL and tooling. Loves to teach code, coffee addict, and have a strong sense of design. **I'm a moslem ;)**
 
 - 👨‍💻  Frontend developer @lawkins
 - 💅 Active writing articles on @BaliJS forum

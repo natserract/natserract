@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**natserract/natserract** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there! 👋
+Hi! My name is Alfin, I'm a frontend developer at Lawkins Singapore. Interested in React, Angular, GraphQL and tooling. Loves to teach code, coffee addict, and have a strong sense of design. **I'm a moslem ;)**
 
-Here are some ideas to get you started:
+- 👨‍💻  Frontend developer @lawkins
+- 💅 Active writing articles on @balijs forum
+- 💬 Free for #ASK, PM me in #Telegram @natserract. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact Me
+
+```sh
+My secret key: jcb36aDHHmNAvRs5Qz1Dy2MDhBB+KNGobfM5OwvJVYCBqdkmqZF98DWxkxCwSu0X9NrEfiEIwp8pDpVw3TTa6A==
+Decyrpt: algorithms: loki 97 | key: __SECRET_KEY__ | modes: CBC
+```

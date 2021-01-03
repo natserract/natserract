@@ -6,7 +6,7 @@ Hi! My name is Alfin, I'm a frontend developer at Lawkin Singapore. Interested i
 - 💅 Active writing articles on [@BaliJS](https://github.com/BaliJS) forum
 - 💬 Free for #ASK, PM me in #Telegram [@natserract](https://t.me/natserract). 
 
-### Contact Me
+### Contact Me (Privately)
 
 ```sh
 -----BEGIN PGP MESSAGE-----

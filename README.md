@@ -1,9 +1,9 @@
 
 # أَهْلاًوَسَهْلًا وَمَرْحَبًا
-Hi! Nama saya Alfin, Saya pengembang frontend di salah satu startup Singapura. Tertarik dengan React, Angular, GraphQL dan tooling. Senang mengajarkan kode, pecandu kopi, dan saya seorang ikhwan [muslim](https://muslim.or.id/430-mari-mengenal-manhaj-salaf.html).
+Hi! Nama saya Alfin, Saya pengembang frontend di salah satu startup Singapura. Tertarik dengan React, Angular, GraphQL dan tooling. Senang mengajarkan kode, pecandu kopi, dan saya seorang [ikhwan muslim](https://muslim.or.id/430-mari-mengenal-manhaj-salaf.html).
 
 - 👨‍💻  Pengembang frontend @lawkin
-- 💅 Aktif menulis artikel di [@BaliJS](https://github.com/BaliJS) forum
+- 💅 Aktif menulis artikel di [@BaliJS](https://forum.balijs.org/) forum
 - 💬 Free for #ASK, PM saya di #Telegram [@natserract](https://t.me/natserract). 
 
 ### Kontak (Privately)

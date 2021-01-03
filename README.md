@@ -1,12 +1,12 @@
 
-### Hi there! 
-Hi! My name is Alfin, I'm a frontend developer at Lawkin Singapore. Interested in React, Angular, GraphQL and tooling. Loves to teach code, coffee addict, and have a strong sense of design. **I'm a moslem ;)**
+### أَهْلاًوَسَهْلًا وَمَرْحَبًا
+Hi! Nama saya Alfin, Saya pengembang frontend di salah satu startup di Singapore. Tertarik dengan React, Angular, GraphQL dan tooling. Senang mengajarkan kode, pecandu kopi, dan saya [muslim](https://muslim.or.id/430-mari-mengenal-manhaj-salaf.html).
 
-- 👨‍💻  Frontend developer @lawkin
-- 💅 Active writing articles on [@BaliJS](https://github.com/BaliJS) forum
-- 💬 Free for #ASK, PM me in #Telegram [@natserract](https://t.me/natserract). 
+- 👨‍💻  Pengembang frontend @lawkin
+- 💅 Aktif menulis artikel di [@BaliJS](https://github.com/BaliJS) forum
+- 💬 Free for #ASK, PM saya di #Telegram [@natserract](https://t.me/natserract). 
 
-### Contact Me (Privately)
+### Kontak (Privately)
 
 ```sh
 -----BEGIN PGP MESSAGE-----

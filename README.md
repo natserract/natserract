@@ -1,5 +1,6 @@
 ### Contact Me
-Interested in React, Angular, GraphQL and tooling. Loves to teach code, coffee addict, and i am proud to be a [muslim](https://muslim.or.id/430-mari-mengenal-manhaj-salaf.html).
+Interested in React, Angular, GraphQL and tooling. 
+Loves to teach code, coffee addict, and i am proud to be a [muslim](https://muslim.or.id/430-mari-mengenal-manhaj-salaf.html).
 
 ```sh
 -----BEGIN PGP MESSAGE-----

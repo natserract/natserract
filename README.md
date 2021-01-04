@@ -1,9 +1,10 @@
-### Contact Me
+# About Me
 Interested in React, Angular, GraphQL and tooling. Loves to teach code, coffee addict, and i am proud to be a [muslim](https://muslim.or.id/430-mari-mengenal-manhaj-salaf.html).
 
 - 💅 Active writing articles on [@BaliJS](https://github.com/BaliJS) forum
 - 💬 Free for #ASK, PM me in #Telegram [@natserract](https://t.me/natserract). 
 
+## Contact Me (Privately)
 ```sh
 -----BEGIN PGP MESSAGE-----
 yMIUAnicrVJbSFRRFJ3R0jQCDUpJP+SQQjrZvee+p8hAgx5o7zQwp3Pv2XfmVs6M

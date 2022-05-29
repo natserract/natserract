@@ -1,28 +1,22 @@
-# About alfin/@natserract 
-Interested in React, Angular, GraphQL, TypeScript and tooling. Loves to teach code, coffee addict, and i am proud to be a [muslim](https://muslim.or.id/430-mari-mengenal-manhaj-salaf.html).
+I'm Alfin, a developer interested about type systems, functional programming: ([elixir](https://elixir-lang.org/), [haskell](https://www.haskell.org/)), and islamic books.
 
-- 💅 Active writing articles on [@BaliJS](https://forum.balijs.org/) forum
-- 💬 Free for #ASK, PM me in #Telegram [@natserract](https://t.me/natserract). 
+## My tech blog
+I regularly upload articles to [my blog](https://natserract.vercel.app/). Some of my recent articles:
+- [Lazy evaluation in Haskell](https://natserract.vercel.app/post/haskell-match-laziness)
+- [Haskell: type systems. Zero runtime errors](https://natserract.vercel.app/post/haskell-type-systems)
+- [React optimization techniques](https://natserract.vercel.app/post/react-optimization)
+- [Do's and dont's as a software engineer](https://natserract.vercel.app/post/do-and-donts)
 
-## Contact Me (Privately)
-```sh
------BEGIN PGP MESSAGE-----
-yMIUAnicrVJbSFRRFJ3R0jQCDUpJP+SQQjrZvee+p8hAgx5o7zQwp3Pv2XfmVs6M
-82wSP8aiMuxDMoQKCzHwI8ECDcXCrCjqI4ikkF5ED7KCigwVss4M9ld/nZ/NWWet
-xdqLc3tRqi3TXjA0UdBctTLN/uBme9hWt7zQbES6j8aQsxEdgOSAgxSCIdcBiyIn
-4niOx5Ik66Ik8ARU3lRMmZexIREi6qIpyYaqgMmmAoyiEqxgU+A1gUiUihhkkeoc
-QQ5kWl43BPwByxtitrqsUDAlrPI6xaapYRAVCQhRKS/KRMGGLFDNVAwm9PiCCQUL
-p5MglFo+hrGLKxnvL/z/nDuctKMYc6oBCmGhDYliBQxZZhqdaMyT1xLEIAS8pB4Y
-mxxk2wbDgRhBTQ7E8IhlQKLauXe3FfKE9X9pdiREoZg/gUZBd83pXbrlpaxEJotA
-IGj5vMjJM6YRshIGvKRoIlZ4RXQgOOS3AuCyvElYVjl2HMgfgAiz5DkNVJPVI8sG
-FmQ2ATjKGYYBApVEjdXJiuQMEbAEuqboABrmwNQVkcqKwKHERg1eH3JiFpO4mWXQ
-cntJKBwA1DQ6UjvPZs+0pc1PSXwuW2ZG1p8vt31oga3jRvzcWF9fXfG1T30tRTtn
-B94ssGbU1sP9ZaPIHFj18FHr+Ivy3V/R5VLn2LJys9Z+4VlB9a/q9ugmT8n+b3LL
-z6p7HYVdy77c+f56ON7TzdVn3redX1z8w5yeGmjeciW3e2xpRe7Hq4Vtzie3o/n7
-KlcEJ3fEOwVIT005dXKNZ3Pv474TW0/nqZFu1zDHZ+eXlNd/eH9m17OW56/CdHqy
-J6+mdV+4zvHy2GBb4+q3I0JR+rro8exQb1nWzJ6z33OmunrXip1HjjbEBm815Ihi
-VVmJJ+N6+vCueO6S9bXxbRnjby5dIZcX1kjc0s8VL59PvJvdOOF+2n8XajyVGyr3
-XvwNG486iQ==
-=0wjW
------END PGP MESSAGE-----
-```
+## Projects
+
+| Name | Stars | Issues | Merge Requests | Description |
+| ---- | ----- | ------ | -------------- | ------- |
+|[local-storage-observer](https://github.com/natserract/local-storage-observer) |![Stars](https://img.shields.io/github/stars/natserract/local-storage-observer?style=social) | [![Issues](https://img.shields.io/github/issues/natserract/local-storage-observer?label=%22%22)](https://github.com/natserract/local-storage-observer/issues) | [![PRs](https://img.shields.io/github/issues-pr/natserract/local-storage-observer?label=%22%22)](https://github.com/natserract/local-storage-observer/pulls) | Offline storage using local storage running in Observer
+|[lamblichus](https://github.com/natserract/lamblichus) |![Stars](https://img.shields.io/github/stars/natserract/lamblichus?style=social) | [![Issues](https://img.shields.io/github/issues/natserract/lamblichus?label=%22%22)](https://github.com/natserract/lamblichus/issues) | [![PRs](https://img.shields.io/github/issues-pr/natserract/lamblichus?label=%22%22)](https://github.com/natserract/lamblichus/pulls) | Functors macros in Elixir inspired from haskell, and purescript 
+|[breath](https://github.com/natserract/breath) |![Stars](https://img.shields.io/github/stars/natserract/breath?style=social) | [![Issues](https://img.shields.io/github/issues/natserract/breath?label=%22%22)](https://github.com/natserract/breath/issues) | [![PRs](https://img.shields.io/github/issues-pr/natserract/breath?label=%22%22)](https://github.com/natserract/breath/pulls) | CLI for generate page/components base on Templates 
+|[predict-sugar](https://github.com/natserract/predict-sugar) |![Stars](https://img.shields.io/github/stars/natserract/predict-sugar?style=social) | [![Issues](https://img.shields.io/github/issues/natserract/predict-sugar?label=%22%22)](https://github.com/natserract/predict-sugar/issues) | [![PRs](https://img.shields.io/github/issues-pr/natserract/predict-sugar?label=%22%22)](https://github.com/natserract/predict-sugar/pulls) | Syntactic sugar for if, else statements by a function
+|[purescript-starter](https://github.com/natserract/purescript-starter) |![Stars](https://img.shields.io/github/stars/natserract/purescript-starter?style=social) | [![Issues](https://img.shields.io/github/issues/natserract/purescript-starter?label=%22%22)](https://github.com/natserract/purescript-starter/issues) | [![PRs](https://img.shields.io/github/issues-pr/natserract/purescript-starter?label=%22%22)](https://github.com/natserract/purescript-starter/pulls) | Purescript Spago + Rollup starter
+|[react-hooks-deepdive](https://github.com/natserract/react-hooks-deepdive) |![Stars](https://img.shields.io/github/stars/natserract/react-hooks-deepdive?style=social) | [![Issues](https://img.shields.io/github/issues/natserract/react-hooks-deepdive?label=%22%22)](https://github.com/natserract/react-hooks-deepdive/issues) | [![PRs](https://img.shields.io/github/issues-pr/natserract/react-hooks-deepdive?label=%22%22)](https://github.com/natserract/react-hooks-deepdive/pulls) | React hooks cource (indo version)
+
+
+For an overview of the stuff I worked on, see the Pinned section below. 👇

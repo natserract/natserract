@@ -2,6 +2,7 @@ I'm Alfin, a developer interested about type systems, functional programming: ([
 
 ## My tech blog
 I regularly upload articles to [my blog](https://natserract.vercel.app/). Some of my recent articles:
+- [Elixir Pattern Matching, Assignment, & Immutability](https://natserract.vercel.app/post/elixir-assignment)
 - [Lazy evaluation in Haskell](https://natserract.vercel.app/post/haskell-match-laziness)
 - [Haskell: type systems. Zero runtime errors](https://natserract.vercel.app/post/haskell-type-systems)
 - [React optimization techniques](https://natserract.vercel.app/post/react-optimization)

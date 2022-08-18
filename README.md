@@ -1,4 +1,4 @@
-I'm Alfin, a developer interested about type systems, functional programming: ([elixir](https://elixir-lang.org/), [haskell](https://www.haskell.org/)), and islamic books.
+I'm Alfin, software engineer **[@withbioma](https://www.linkedin.com/company/withbioma/)** interested about type systems, functional programming: ([elixir](https://elixir-lang.org/), [haskell](https://www.haskell.org/)), and islamic books.
 
 ## My tech blog
 I regularly upload articles to [my blog](https://natserract.vercel.app/). Some of my recent articles:

@@ -3,6 +3,7 @@ I'm Alfin, software engineer **[@withbioma](https://www.linkedin.com/company/wit
 ## My tech blog
 I regularly upload articles to [my blog](https://natserract.vercel.app/). Some of my recent articles:
 - [FP Principles](https://medium.com/@natserract/functional-programming-principles-bbac18fabdcc)
+- [Eiger techniques](https://natserract.vercel.app/post/eager-techniques)
 - [Elixir Pattern Matching, Assignment, & Immutability](https://medium.com/@natserract/elixir-pattern-matching-assignment-immutability-e49f9a81d65d)
 - [Lazy evaluation in Haskell](https://medium.com/@natserract/lazy-evaluation-in-haskell-5e8063a308e7)
 - [Haskell: type systems. Zero runtime errors](https://natserract.vercel.app/post/haskell-type-systems)

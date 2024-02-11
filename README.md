@@ -12,6 +12,6 @@ I regularly upload articles to [my blog](https://natserract.vercel.app/). Some o
 - [Do's and dont's as a software engineer](https://natserract.vercel.app/post/do-and-donts)
 
 ## Projects
-Check out some of my projects and work on [Google docs](https://docs.google.com/document/d/13tsa4ked42AbLe7GjR5_05U-Pwizr8-IGGwvnD93Nx8/edit?usp=sharing)
+Check out some of my projects and work on [google docs](https://docs.google.com/document/d/13tsa4ked42AbLe7GjR5_05U-Pwizr8-IGGwvnD93Nx8/edit?usp=sharing)
 
 For an overview of the stuff I worked on, see the Pinned section below. 👇

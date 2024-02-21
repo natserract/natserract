@@ -1,4 +1,4 @@
-I'm Alfin, software engineer. Lately, I've been involves in large language model (LLM), backend engineering, type systems, functional programming: ([elixir](https://elixir-lang.org/)), and islamic books. Currently open to collaboration, discussion and remote work.
+I'm Alfin. Open to collaboration, discussion and remote work.
 
 ## My tech blog
 I regularly upload articles to [my blog](https://natserract.vercel.app/). Some of my recent articles:

@@ -12,7 +12,14 @@ I regularly upload articles to [my blog](https://engineering-natserract.vercel.a
 - [React optimization techniques](https://engineering-natserract.vercel.app/posts/react-optimization)
 - [Do's and dont's as a software engineer](https://engineering-natserract.vercel.app/posts/do-and-donts)
 
-## Projects
-Check out some of my projects https://engineering-natserract.vercel.app/projects
+## Open Source
+- [nodejs-ddd-ca](https://github.com/natserract/nodejs-ddd): Domain driven design & clean architecture in NodeJS
+- [xstate](https://github.com/natserract/xstate): A State machines library for elixir
+- [lamblichus](https://github.com/natserract/lamblichus): Functors macros in Elixir inspired from haskell, and purescript
+- [breath](https://github.com/natserract/breath): CLI for generate page/components base on Templates
+- [predict-sugar](https://github.com/natserract/predict-sugar): Syntactic sugar for if, else statements by a function
+- [use-recursive-fetch-paginate](https://github.com/natserract/use-recursive-fetch-paginate): React hook for handles fetching data recursively from a paginated API
+- [cdd-react](https://github.com/natserract/cdd-react): Built React components from scratch using the Component-Driven Development (CDD)
+- [rust-git-hooks](https://github.com/natserract/rust-git-hooks): Rust Git Hooks
 
 For an overview of the stuff I worked on, see the Pinned section below. 👇

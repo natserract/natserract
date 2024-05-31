@@ -22,5 +22,3 @@ I regularly upload articles to [my blog](https://engineering-natserract.vercel.a
 - [use-recursive-fetch-paginate](https://github.com/natserract/use-recursive-fetch-paginate): React hook for handles fetching data recursively from a paginated API
 - [cdd-react](https://github.com/natserract/cdd-react): Built React components from scratch using the Component-Driven Development (CDD)
 - [rust-git-hooks](https://github.com/natserract/rust-git-hooks): Rust Git Hooks
-
-For an overview of the stuff I worked on, see the Pinned section below. 👇

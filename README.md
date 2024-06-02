@@ -16,6 +16,7 @@ I regularly upload articles to [my blog](https://engineering-natserract.vercel.a
 ## Open Source
 - [nodejs-ddd-ca](https://github.com/natserract/nodejs-ddd): Domain driven design & clean architecture in NodeJS
 - [xstate](https://github.com/natserract/xstate): A State machines library for elixir
+- [natserract-ai](https://github.com/natserract/natserract-ai): Doc2Vec, Langchain and OpenAI to chat with Natserract blog
 - [lamblichus](https://github.com/natserract/lamblichus): Functors macros in Elixir inspired from haskell, and purescript
 - [breath](https://github.com/natserract/breath): CLI for generate page/components base on Templates
 - [predict-sugar](https://github.com/natserract/predict-sugar): Syntactic sugar for if, else statements by a function

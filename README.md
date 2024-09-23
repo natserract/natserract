@@ -23,5 +23,6 @@ I regularly upload articles to [my blog](https://engineering-natserract.vercel.a
 - [predict-sugar](https://github.com/natserract/predict-sugar): Syntactic sugar for if, else statements by a function
 - [use-recursive-fetch-paginate](https://github.com/natserract/use-recursive-fetch-paginate): React hook for handles fetching data recursively from a paginated API
 - [cdd-react](https://github.com/natserract/cdd-react): Built React components from scratch using the Component-Driven Development (CDD)
+- [reason-rust-scraper](https://github.com/natserract/reason-rust-scraper): Scraping & crawling websites using Rust, and ReasonML 
 - [rust-git-hooks](https://github.com/natserract/rust-git-hooks): Rust Git Hooks
 - [frontend-trainee](https://github.com/natserract/frontend-trainee): Frontend things

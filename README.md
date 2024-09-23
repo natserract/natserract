@@ -13,7 +13,7 @@ I regularly upload articles to [my blog](https://engineering-natserract.vercel.a
 - [React optimization techniques](https://engineering-natserract.vercel.app/posts/react-optimization)
 - [Do's and dont's as a software engineer](https://engineering-natserract.vercel.app/posts/do-and-donts)
 
-## Open Source
+## Projects
 - [woco](https://github.com/natserract/woco): Command line interface for uploading WooCommerce(WC) products
 - [nodejs-ddd-ca](https://github.com/natserract/nodejs-ddd): Domain driven design & clean architecture in NodeJS
 - [xstate](https://github.com/natserract/xstate): A State machines library for elixir

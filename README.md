@@ -1,7 +1,7 @@
 I'm Alfin. Open to collaboration, discussion and remote work.
 
 ## My tech blog
-I regularly upload articles to [my blog](https://engineering-natserract.vercel.app/posts). Some of my recent articles:
+I regularly upload articles to [my blog](https://natserract-fyi.vercel.app/). Some of my recent articles:
 - [A Tour of Goroutines](https://engineering-natserract.vercel.app/posts/a-tour-of-goroutines)
 - [The T-Shaped Engineer Strategy](https://engineering-natserract.vercel.app/posts/the-t-shaped-engineer-strategy)
 - [Trusting people becomes more scarce.](https://engineering-natserract.vercel.app/posts/trusting-people-becomes-scarce)
